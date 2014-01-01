@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\bin\Debug\CalcularAngulo A del triangulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo_A_del_triangulo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo_A_del_triangulo.Properties.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.csproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\CalcularAngulo A del triangulo\CalcularAngulo A del triangulo\obj\Debug\CalcularAngulo A del triangulo.pdb
